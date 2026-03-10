@@ -11,7 +11,10 @@ Já aprendi sobre:
 Introdução à Informática: Hardware, Sistemas Operacionais e Redes.
 Lógica de Programação:Algoritmos, estruturas de repetição e tomada de decisão.
 
-No momento, tambem estou fazendo um curso sobre o Phyton e Inglês para me aperfeiçoar
+No momento, tambem estou fazendo um curso:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) Phyton
+![English](https://img.shields.io/badge/English-informational?style=flat&logo=england&logoColor=white&color=blue)Inglês 
+
 
 ### 🛠️ Minhas Ferramentas e Tecnologias
 Ainda estou expandindo minha caixa de ferramentas, mas aqui está o que já faz parte do meu dia a dia:
